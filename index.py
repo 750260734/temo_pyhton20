@@ -5,3 +5,5 @@ d = 3
 
 c = 4
 
+def function():
+	pass
